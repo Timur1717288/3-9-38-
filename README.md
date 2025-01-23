@@ -1,2 +1,7 @@
+git add
+git add
+git add
+git add
+git add
 git bash
-git chechout
+git chectkout
